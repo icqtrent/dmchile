@@ -9571,3 +9571,21 @@ h6,
   padding: 0;
   list-style-type: none;
 }
+
+
+
+.whatsapp {
+  position:fixed;
+  width:60px;
+  height:60px;
+  bottom:100px;
+  right:25px;
+  background-color:#25d366;
+  border-radius:50px;
+  text-align:center;
+  font-size:30px;
+  z-index:10;
+ 
+}
+
+
